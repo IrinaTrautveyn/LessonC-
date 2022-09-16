@@ -2,7 +2,19 @@
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
 
-// Определение входного числа
-Console.Write ("Введите число:");
-int number = int.Parse (Console.ReadLine ());
+//Определение входного числа
+Console.Write("Введите число:");
+int N = int.Parse(Console.ReadLine());
 
+//int i = Math.Abs(N)* -1;
+
+for (int i = 1; i <= N; i++ )
+{
+    if (N % 2 == 0);
+    Console.WriteLine("{0} ", i);
+
+}
+
+ 
+        
+    
