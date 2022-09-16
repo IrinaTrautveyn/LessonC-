@@ -15,8 +15,5 @@ if(a > b)
 else
     Console.WriteLine($"max = {b}");
 
-//if(a < b)
-   // Console.WriteLine($"Число {a} меньше числа {b}");
-//else 
-   // Console.WriteLine($"max = {a}");
+
     
